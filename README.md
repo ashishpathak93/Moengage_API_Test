@@ -32,7 +32,6 @@ https://docs.google.com/spreadsheets/d/1uSw2qb093svTUMmo3f1v3pz0dC-nKj4CHHoQH7r0
 * Prerequisite is environment where test has to be run.
 * clean install exec:java -Dexec.mainClass=com.moengage.apitest.base.DynamicTestngCreation -Denvironment="https://gateway.marvel.com:443" -Dsheetname=marvel_chaining
 
- -Dexec.mainClass=com.moengage.apitest.base.DynamicTestngCreation -Denvironment="https://gateway.marvel.com:443" -Dsheetname=
 ### Where to find the testng.xml
 * It's Created Dynamically during runtime
 
